@@ -1,0 +1,30 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+   
+}
+
+h1 {
+    font-size: 28pt;
+    text-align: center;
+}
+
+div {
+    margin: 20px 0px 20px 10px;
+}
+
+.p1 {
+    
+}
+
+.p1, p {
+    font-size: 16pt;
+}
+
+.characters, .enemies, .defender {
+    height: 180px;
+    width: 100%;
+}
+
